@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CustomComponents</string>
+    <string name="video_duration_para1">5 minutes</string>
+    <string name="video_duration_para2">10 minutes</string>
+    <string name="video_duration_para3">30 minutes</string>
+</resources>
